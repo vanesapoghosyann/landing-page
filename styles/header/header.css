@@ -11,7 +11,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 20px;
-  /* 111.111% */
   width: 298px;
 }
 
@@ -22,7 +21,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 20px;
-  /* 111.111% */
   width: 130px;
 }
 
@@ -39,7 +37,6 @@ nav ul li a {
   font-style: normal;
   font-weight: 700;
   line-height: 20px;
-  /* 111.111% */
 }
 
 header {
@@ -67,4 +64,4 @@ nav {
   align-items: flex-start;
   flex-wrap: wrap;
   gap: 20px;
-}/*# sourceMappingURL=header.css.map */
+}
